@@ -1,6 +1,6 @@
 # multiple-pyenv
 
-This is a simple script to install multiple versions of Python using pyenv.
+This is a simple script to install multiple versions of Python using [pyenv](https://github.com/pyenv/pyenv).
 
 ## Usage
 
